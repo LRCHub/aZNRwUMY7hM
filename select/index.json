@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "幸せにならないで、",
+  "base_artist": "金時",
+  "createdAt": "2026-03-09T01:42:32.026527Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "幸せにならないで、",
+      "artist": "金時",
+      "has_synced": false,
+      "path": "select/01_幸せにならないで、_金時.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幸せにならないで、",
+      "artist": "金時",
+      "has_synced": false,
+      "path": "select/pl_01_幸せにならないで、_金時.txt"
+    }
+  ]
+}
